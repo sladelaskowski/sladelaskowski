@@ -25,13 +25,13 @@ I believe in shipping fast, killing faster, and never doing the same thing three
 
 🔷 **[Doculent](https://doculent.io)** — AI-powered document intelligence platform. Tri-layer contextual extraction, 200 docs/min, human-in-the-loop verification. Built for insurance, healthcare, freight.
 
-📊 **[Databyte Analytics](https://github.com/sladelaskowski/databyte_src)** — Data analytics platform and API layer for structured business insights.
+📊 **[Databyte](https://github.com/sladelaskowski/databyte_src)** — Data analytics platform and API layer for structured business insights.
 
 🤖 **[Reclone.me](https://reclone.me)** — Executive agent suite. AI agents that operate like you do.
 
-💨 **[Dustly](https://dustly.io)** — Crypto marketing tool that uses token dusting to advertise on blockchain explorers like Solscan.
+💨 **[Dustly](https://dustly.sol)** — Crypto marketing tool that uses token dusting to advertise on blockchain explorers like Solscan.
 
-📈 **[Roo Trade](https://github.com/sladelaskowski/RooAnalytics)** — Trading analytics and market intelligence tooling.
+📈 **[Roo Trade](https://roo.trade)** — Solana based trading platform for high speed trading.
 
 🧩 **[Document Intelligence Skills](https://github.com/doculent/community)** — Open-source Claude Code skills for parsing, extracting, comparing, querying, and redacting documents. Free forever.
 
