@@ -29,7 +29,7 @@ I believe in shipping fast, killing faster, and never doing the same thing three
 
 🤖 **[Reclone.me](https://reclone.me)** — Executive agent suite. AI agents that operate like you do.
 
-🏠 **[Dustly](https://dustly.io)** — Property management and real estate technology.
+💨 **[Dustly](https://dustly.io)** — Crypto marketing tool that uses token dusting to advertise on blockchain explorers like Solscan.
 
 📈 **[Roo Trade](https://github.com/sladelaskowski/RooAnalytics)** — Trading analytics and market intelligence tooling.
 
