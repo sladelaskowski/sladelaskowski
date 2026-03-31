@@ -56,14 +56,6 @@ I believe in shipping fast, killing faster, and never doing the same thing three
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sladelaskowski/sladelaskowski/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sladelaskowski/sladelaskowski/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/sladelaskowski/sladelaskowski/output/github-snake-dark.svg" />
-</picture>
-
----
-
 <p align="center">
   <sub>Automate by the third repetition.</sub>
 </p>
