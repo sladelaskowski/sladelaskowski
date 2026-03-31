@@ -56,32 +56,13 @@ I believe in shipping fast, killing faster, and never doing the same thing three
 
 ---
 
-### Stats
+### GitHub Activity
 
 <p align="center">
   <a href="https://github.com/sladelaskowski">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=sladelaskowski&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=00000000&ring_color=0f3460&icon_color=94a3b8&title_color=e2e8f0&text_color=94a3b8" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/sladelaskowski">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sladelaskowski&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=00000000&title_color=e2e8f0&text_color=94a3b8&langs_count=8" alt="Top Languages" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sladelaskowski&theme=github-dark-dimmed&hide_border=true&bg_color=00000000&color=94a3b8&line=0f3460&point=e2e8f0&area=true&area_color=16213e" alt="Activity Graph" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/sladelaskowski">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=sladelaskowski&theme=github-dark-dimmed&hide_border=true&background=00000000&ring=0f3460&fire=e2e8f0&currStreakLabel=94a3b8&sideLabels=94a3b8&sideNums=e2e8f0&currStreakNum=e2e8f0&dates=4a5568" alt="GitHub Streak" />
-  </a>
-</p>
-
----
-
-### Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sladelaskowski/sladelaskowski/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sladelaskowski/sladelaskowski/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sladelaskowski/sladelaskowski/output/github-snake-dark.svg" />
-</picture>
 
 ---
 
