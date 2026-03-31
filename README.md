@@ -56,13 +56,11 @@ I believe in shipping fast, killing faster, and never doing the same thing three
 
 ---
 
-### GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/sladelaskowski">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sladelaskowski&theme=github-dark-dimmed&hide_border=true&bg_color=00000000&color=94a3b8&line=0f3460&point=e2e8f0&area=true&area_color=16213e" alt="Activity Graph" />
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sladelaskowski/sladelaskowski/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sladelaskowski/sladelaskowski/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/sladelaskowski/sladelaskowski/output/github-snake-dark.svg" />
+</picture>
 
 ---
 
