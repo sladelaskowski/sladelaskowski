@@ -35,10 +35,6 @@ I believe in shipping fast, killing faster, and never doing the same thing three
 
 📈 **[Roo Trade](https://roo.trade)** — Solana based trading platform for high speed trading.
 
-🧩 **[Document Intelligence Skills](https://github.com/doculent/community)** — Open-source Claude Code skills for parsing, extracting, comparing, querying, and redacting documents. Free forever.
-
-🛠️ **[Slade Consulting](https://sladeconsulting.com)** — Technical consulting for teams that need to move faster.
-
 ---
 
 ### Stack
