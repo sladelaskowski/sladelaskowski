@@ -34,11 +34,3 @@ I believe in shipping fast, killing faster, and never doing the same thing three
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
   <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
 </p>
-
----
-
-<p align="center">
-  <sub>Automate by the third repetition.</sub>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" />
