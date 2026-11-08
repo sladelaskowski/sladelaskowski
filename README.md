@@ -1,20 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Slade%20Laskowski&fontColor=e2e8f0&fontSize=42&fontAlignY=35&desc=Building%20tools%20that%20make%20documents%20work%20for%20people&descSize=16&descColor=94a3b8&descAlignY=55&animation=fadeIn" />
-
-<p align="center">
-  <a href="https://github.com/sladelaskowski"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1500&color=94A3B8&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Founder+%7C+Builder+%7C+Automator;If+it+can+be+automated%2C+it+should+be." alt="Typing SVG" /></a>
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sladelaskowski"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/sladelaskowski"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://instagram.com/sladelaskowski"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://discord.gg/VvqKKm2Ttz"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-</p>
-
----
-
 ### About
 
 I build software that turns messy, manual processes into automated systems. Based in Europe. Most of my work sits at the intersection of AI, document processing, and data infrastructure.
