@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 262" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" role="img" aria-label="2,249 pull requests merged since May 2026">
+<style>.b{transform-box:fill-box;transform-origin:bottom;animation:g .7s cubic-bezier(.2,.8,.2,1) both}@keyframes g{from{transform:scaleY(0)}}@media (prefers-reduced-motion:reduce){.b{animation:none}}</style>
+<text x="0" y="28" fill="#59636e" font-size="16">pull requests merged</text>
+<text x="-3" y="104" fill="#1f2328" font-size="72" font-weight="700" letter-spacing="-3">2,249</text>
+<text x="0" y="136" fill="#59636e" font-size="16">since May 2026</text>
+<text x="0" y="186" fill="#59636e" font-size="16">DebitBG</text>
+<text x="230" y="186" text-anchor="end" fill="#1f2328" font-size="16">2,117</text>
+<text x="0" y="214" fill="#59636e" font-size="16">Doculent</text>
+<text x="230" y="214" text-anchor="end" fill="#1f2328" font-size="16">132</text>
+<line x1="300" x2="800" y1="222.5" y2="222.5" stroke="#d1d9e0"/>
+<path class="b" style="animation-delay:0ms" d="M313.7 222V142.0Q313.7 138.0 317.7 138.0H353.7Q357.7 138.0 357.7 142.0V222Z" fill="#1a7f37"/>
+<text x="335.7" y="250" text-anchor="middle" fill="#59636e" font-size="15">May</text>
+<path class="b" style="animation-delay:70ms" d="M385.1 222V155.2Q385.1 151.2 389.1 151.2H425.1Q429.1 151.2 429.1 155.2V222Z" fill="#1a7f37"/>
+<text x="407.1" y="250" text-anchor="middle" fill="#59636e" font-size="15">Jun</text>
+<path class="b" style="animation-delay:140ms" d="M456.6 222V110.3Q456.6 106.3 460.6 106.3H496.6Q500.6 106.3 500.6 110.3V222Z" fill="#1a7f37"/>
+<text x="478.6" y="250" text-anchor="middle" fill="#59636e" font-size="15">Jul</text>
+<path class="b" style="animation-delay:210ms" d="M528.0 222V114.3Q528.0 110.3 532.0 110.3H568.0Q572.0 110.3 572.0 114.3V222Z" fill="#1a7f37"/>
+<text x="550.0" y="250" text-anchor="middle" fill="#59636e" font-size="15">Aug</text>
+<path class="b" style="animation-delay:280ms" d="M599.4 222V126.9Q599.4 122.9 603.4 122.9H639.4Q643.4 122.9 643.4 126.9V222Z" fill="#1a7f37"/>
+<text x="621.4" y="250" text-anchor="middle" fill="#59636e" font-size="15">Sep</text>
+<path class="b" style="animation-delay:350ms" d="M670.9 222V38.0Q670.9 34.0 674.9 34.0H710.9Q714.9 34.0 714.9 38.0V222Z" fill="#1a7f37"/>
+<text x="692.9" y="250" text-anchor="middle" fill="#59636e" font-size="15">Oct</text>
+<text x="692.9" y="25.0" text-anchor="middle" fill="#1f2328" font-size="15">611</text>
+<path class="b" style="animation-delay:420ms" d="M742.3 222V203.2Q742.3 199.2 746.3 199.2H782.3Q786.3 199.2 786.3 203.2V222Z" fill="#1a7f37" opacity=".45"/>
+<text x="764.3" y="250" text-anchor="middle" fill="#59636e" font-size="15">Nov</text>
+<text x="764.3" y="190.2" text-anchor="middle" fill="#1f2328" font-size="15">74</text>
+<text x="764.3" y="172.2" text-anchor="middle" fill="#59636e" font-size="15">so far</text>
+</svg>

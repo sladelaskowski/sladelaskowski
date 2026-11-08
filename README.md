@@ -1,36 +1,30 @@
-### About
+I build software that replaces manual back-office work: accounting, document processing, data.
 
-I build software that turns messy, manual processes into automated systems. Based in Europe. Most of my work sits at the intersection of AI, document processing, and data infrastructure.
+I run a fleet of coding agents. They write most of the code. I design it, review it, and own what ships.
 
-I believe in shipping fast, killing faster, and never doing the same thing three times.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="card/ship-dark.svg">
+  <img src="card/ship-light.svg" width="100%" alt="2,249 pull requests merged since May 2026. By month: May 273, Jun 230, Jul 376, Aug 363, Sep 322, Oct 611, Nov 74. By product: DebitBG 2,117, Doculent 132.">
+</picture>
 
----
+<sub>Counted from the GitHub API. The repos are private, so you get the numbers and not the code.</sub>
 
-### What I'm Building
+### Building
 
-🔷 **[Doculent](https://doculent.io)** — AI-powered document intelligence platform. Tri-layer contextual extraction, 200 docs/min, human-in-the-loop verification. Built for insurance, healthcare, freight.
+**[DebitBG](https://debitbg.com)** Accounting platform for Bulgarian firms. Invoices book themselves, the accountant approves.
 
-📊 **[Databyte](https://github.com/sladelaskowski/databyte_src)** — Data analytics platform and API layer for structured business insights.
+**[Doculent](https://doculent.io)** Document extraction for insurance, healthcare and freight. 200 docs/min with human review.
 
-🤖 **[Reclone.me](https://reclone.me)** — Executive agent suite. AI agents that operate like you do.
+**Databyte** Analytics platform and API layer for structured business data.
 
-💨 **[Dustly](https://dustly.sol)** — Crypto marketing tool that uses token dusting to advertise on blockchain explorers like Solscan.
+**Reclone.me** Executive agents that operate the way you do.
 
-📈 **[Roo Trade](https://roo.trade)** — Solana based trading platform for high speed trading.
+<sub>Earlier: Dustly, token-dusting ads on Solana explorers. Roo Trade, high-speed Solana trading.</sub>
 
----
+### How it ships
 
-### Stack
+- Every production bug gets a failing test before the fix.
+- Every deploy is health-checked and rolls itself back on failure.
+- Every migration stays compatible with the previous build.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-</p>
+<samp>TypeScript . Python . Postgres . Fastify . FastAPI . React . Next.js . Docker . AWS . Claude</samp>
